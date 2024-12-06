@@ -17,3 +17,29 @@ L02 - Lista de exercício Packages
      maioridade: Lista os alunos maiores de 18 anos com seus nomes e datas de nascimento.
    
      aluno_no_curso: Lista os nomes dos alunos matriculados em um curso específico (filtrando pelo id_curso).
+
+2. Pacote PKG_DISCIPLINA
+   
+   Procedures:
+
+   cadastrar_disciplina: Cadastra uma nova disciplina no banco de dados com os parâmetros nome, descrição e carga horária.
+   
+   listar_alunos_disciplina: Lista todos os alunos matriculados em uma disciplina específica com base no id_disciplina.
+
+   Cursores:
+
+   disciplina10: Lista disciplinas com mais de 10 alunos matriculados, exibindo o nome da disciplina e o total de alunos.
+   
+   idade_media: Calcula a média de idade dos alunos matriculados em uma disciplina específica.
+
+3. Pacote PKG_PROFESSOR
+
+   Cursores:
+
+   professor_turma: Lista os professores que possuem mais de uma turma, mostrando o nome do professor e o total de turmas associadas.
+   
+   Functions:
+
+   total_turma: Retorna o número total de turmas associadas a um professor, com base no id_professor.
+   
+   professor_da_disciplina: Retorna o nome do professor responsável por uma disciplina específica, com base no id_disciplina.
