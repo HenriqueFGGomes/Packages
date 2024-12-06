@@ -21,13 +21,13 @@ L02 - Lista de exercício Packages
 
 3. Pacote PKG_DISCIPLINA
    
-   Procedures:
+   # Procedures:
 
    cadastrar_disciplina: Cadastra uma nova disciplina no banco de dados com os parâmetros nome, descrição e carga horária.
    
    listar_alunos_disciplina: Lista todos os alunos matriculados em uma disciplina específica com base no id_disciplina.
 
-   Cursores:
+   # Cursores:
 
    disciplina10: Lista disciplinas com mais de 10 alunos matriculados, exibindo o nome da disciplina e o total de alunos.
    
@@ -35,11 +35,11 @@ L02 - Lista de exercício Packages
 
 4. Pacote PKG_PROFESSOR
 
-   Cursores:
+   # Cursores:
 
    professor_turma: Lista os professores que possuem mais de uma turma, mostrando o nome do professor e o total de turmas associadas.
    
-   Functions:
+   # Functions:
 
    total_turma: Retorna o número total de turmas associadas a um professor, com base no id_professor.
    
