@@ -10,6 +10,7 @@ L02 - Lista de exercício Packages
 1. Pacote PKG_ALUNO
    
    Procedures:
+   
     exclui_aluno: Exclui um aluno específico e suas matrículas associadas com base no id_aluno.
 
    Cursores:
@@ -18,7 +19,7 @@ L02 - Lista de exercício Packages
    
      aluno_no_curso: Lista os nomes dos alunos matriculados em um curso específico (filtrando pelo id_curso).
 
-2. Pacote PKG_DISCIPLINA
+3. Pacote PKG_DISCIPLINA
    
    Procedures:
 
@@ -32,7 +33,7 @@ L02 - Lista de exercício Packages
    
    idade_media: Calcula a média de idade dos alunos matriculados em uma disciplina específica.
 
-3. Pacote PKG_PROFESSOR
+4. Pacote PKG_PROFESSOR
 
    Cursores:
 
