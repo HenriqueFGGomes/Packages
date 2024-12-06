@@ -15,4 +15,5 @@ L02 - Lista de exercício Packages
    Cursores:
    
      maioridade: Lista os alunos maiores de 18 anos com seus nomes e datas de nascimento.
+   
      aluno_no_curso: Lista os nomes dos alunos matriculados em um curso específico (filtrando pelo id_curso).
